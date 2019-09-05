@@ -1,0 +1,15 @@
+2
+8 4
+bxxr
+xrxx
+xxrb
+rbxx
+rxbx
+xxrb
+xxxx
+rxxb
+4 8
+xxxrxxrr
+xxxxxxxr
+rxxxxbxb
+xxxxbrxx
